@@ -1,0 +1,33 @@
+/*-------------------
+    RESET
+---------------------*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: red;
+}
+
+.box-1 {
+    margin-bottom: 20px;
+    background-color: lightblue;
+}
+
+.box {
+    height: 400px;
+    width: 400px;
+    background-color: lightcoral;
+    border: 10px solid black;
+    padding: 20px;
+    /* border-radius: 100%; */
+    /* margin: 10px; */
+}
+
+
+
+.box-2 {
+    margin: 0 auto;
+}
